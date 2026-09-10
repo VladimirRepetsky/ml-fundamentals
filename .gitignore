@@ -7,3 +7,4 @@ data.txt
 diary.txt
 profiles.json
 user.json
+data/*.csv
